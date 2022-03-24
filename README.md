@@ -17,3 +17,10 @@ No information related to UBTF is presented on JASPAR
 | REP1     |  42193238     | 38623136      | 91.54%        |    28178721        |  27.04%                |   PBC1        |   PBC2       |
 | REP2     |    50499425   |   39470960    | 78.16%        |    22805590        |  42.22%                |   PBC1        |   PBC2       |
 | CONTROL  |    57619090   |   48631054    | 84.40%        |    32853680        |  32.44%                |   PBC1        |   PBC2       |
+
+| Sourse   | Redundant Rate   |  Estimated Fragment Size (d) |
+|----------|:----------------:|-----------------------------:|
+| REP1     |  13%             |  171 BPs                     | 
+| REP2     |  26%             |  156 BPs                     |
+
+
