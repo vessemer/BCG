@@ -23,4 +23,4 @@ No information related to UBTF is presented on JASPAR
 | REP1     |  13%             |  171 BPs                     | 
 | REP2     |  26%             |  156 BPs                     |
 
-
+This gene encodes a member of the HMG-box DNA-binding protein family. The encoded protein plays a critical role in ribosomal RNA transcription as a key component of the pre-initiation complex, mediating the recruitment of RNA polymerase I to rDNA promoter regions. The encoded protein may also play important roles in chromatin remodeling and pre-rRNA processing, and its activity is regulated by both phosphorylation and acetylation. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. Pseudogenes of this gene are located on the short arm of chromosomes 3, 11 and X and the long arm of chromosome 11.
