@@ -57,5 +57,6 @@ Prior to estimate the IDR, peaks calling shall be re-computed with relaxed thres
 
 REP1 & REP2 peaks overlap resulted in 48857 summits,  
 Number of peaks passing IDR cutoff of 0.2 - 23649/48857
+IDR .2 THRESHOLDED overlap with ENCODE: 26864 peaks in common.
 
 ![IDR_RESULT](./data/assets/IDR_RESULT.png)
