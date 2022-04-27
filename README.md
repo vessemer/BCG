@@ -29,17 +29,34 @@ UBF belongs to the sequence nonspecific class of HMG (high mobility group) prote
 
 # Intersections
 
-| Sourse   |  #Peaks       | #Peaks intersected \w Encode |
-|----------|:-------------:|-----------------------------:|
-| REP1     |   51771       |         37045            | 
-| REP2     |   40667       |         35029            |
-| REP1     |   37379       |         34511            |
-| POOLED   |   37951       |         35458            |
+| Sourse      |  #Peaks       | #Peaks intersected \w Encode  | #Peaks summit overlap \w Encode (150 pb window) |
+|-------------|:-------------:|:-----------------------------:|:-----------------------------|
+| REP1        |   51771       |         37045                 |         29252            | 
+| REP2        |   40667       |         35029                 |         27098            |
+| REP1 & REP2 |   37379       |         34511                 |         -                |
+| POOLED      |   37951       |         35458                 |         27971            |
 
 
 ![qval_intersect](./data/assets/qval_intersect.png)
 ![log_qval_intersect](./data/assets/log_qval_intersect.png)
 
 # Peaks summit overlap \w 150bp window
+
+
 ![qval_intersect](./data/assets/ps_qval_intersect.png)
 ![log_qval_intersect](./data/assets/log_ps_qval_intersect.png)
+
+# IDR
+
+Prior to estimate the IDR, peaks calling shall be re-computed with relaxed thresholds.
+
+| Sourse      |  #Peaks       | #Peaks after BlackList  |
+|-------------|:-------------:|:------------------------|
+| REP1        |   129911      |         129905          |
+| REP2        |   88074       |         88054           |
+
+REP1 & REP2 peaks overlap resulted in 48857 summits,  
+Number of peaks passing IDR cutoff of 0.2 - 23649/48857
+IDR .2 THRESHOLDED overlap with ENCODE: 26864 peaks in common.
+
+![IDR_RESULT](./data/assets/IDR_RESULT.png)
