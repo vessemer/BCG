@@ -35,3 +35,11 @@ UBF belongs to the sequence nonspecific class of HMG (high mobility group) prote
 | REP2     |   40667       |         35029            |
 | REP1     |   37379       |         34511            |
 | POOLED   |   37951       |         35458            |
+
+
+![qval_intersect](./data/assets/qval_intersect.png)
+![log_qval_intersect](./data/assets/log_qval_intersect.png)
+
+# Peaks summit overlap \w 150bp window
+![qval_intersect](./data/assets/ps_qval_intersect.png)
+![log_qval_intersect](./data/assets/log_ps_qval_intersect.png)
