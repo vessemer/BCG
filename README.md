@@ -70,3 +70,23 @@ The most enriched peaks found by this project only.
 
 ![included](./data/assets/non_included.png)
 The most enriched peaks found by ENCODE only.
+
+# ChHMM
+![ChHMM](./data/assets/HMM_full.png)
+![ChHMM](./data/assets/HMM_groupped.png)
+
+# Pscan-ChIP
+![PScan](./data/assets/pscan1.png)
+![PScan](./data/assets/pscan2.png)
+
+# SeqMiner
+![SeqMiner](./data/assets/profilefull.png)
+![SeqMiner](./data/assets/profheat.png)
+![SeqMiner](./data/assets/profile.png)
+![SeqMiner](./data/assets/clusteredprofile.png)
+
+# DNase-Seq
+| DNase-Seq & REPS |  #Peaks       |
+|------------------|:--------------|
+| OVERLAPPED       |   27148       |
+| NON              |   10230       |
