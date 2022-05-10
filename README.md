@@ -90,3 +90,9 @@ The most enriched peaks found by ENCODE only.
 |------------------|:--------------|
 | OVERLAPPED       |   27148       |
 | NON              |   10230       |
+
+![DNase](./data/assets/dnase_qval_intersect.png)
+![DNase](./data/assets/non_dnase_qval_intersect.png)
+
+# Great
+The test set of 37,378 genomic regions picked 14,066 (75%) of all 18,777 genes.
