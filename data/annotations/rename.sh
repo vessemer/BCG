@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mv ENCFF810LSF.bed.gz IDR_NARROWPEAKS_REP12.bed.gz
+mv ENCFF424RNN.bigBed IDR_NARROWPEAKS_REP12.bigBed
+

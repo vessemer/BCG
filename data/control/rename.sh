@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mv ENCFF294NEM.bam CONTROL_FILTERED.bam
+mv ENCFF371KLJ.bam CONTROL.bam
+
