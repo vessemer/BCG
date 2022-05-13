@@ -27,6 +27,9 @@ This gene encodes a member of the HMG-box DNA-binding protein family. The encode
 
 UBF belongs to the sequence nonspecific class of HMG (high mobility group) proteins. It has six HMG-box homology domains and has been proposed to interact with rDNA as a dimer and to induce six in-phase bends to generate a single 360-loop structure that resembles the nucleosome.
 
+![SIDE](./data/assets/side1.png)
+![SIDE](./data/assets/side2.png)
+
 # Intersections
 
 | Sourse      |  #Peaks       | #Peaks intersected \w Encode  | #Peaks summit overlap \w Encode (150 pb window) |
