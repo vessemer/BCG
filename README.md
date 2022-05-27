@@ -86,7 +86,8 @@ The most enriched peaks found by ENCODE only.
 ![PScan](./data/assets/pscan2.png)
 
 # SeqMiner
-| H3K27ac | H3K4me3 | TBP | H3K9me3 |
+| H3K27ac | H3K4me3 | TBP | H3K9me3 |  
+
 ![SeqMiner](./data/assets/profilefull.png)
 ![SeqMiner](./data/assets/profheat.png)
 ![SeqMiner](./data/assets/profile.png)
