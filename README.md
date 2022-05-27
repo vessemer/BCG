@@ -36,10 +36,11 @@ No information related to UBTF is presented on JASPAR
 
 | Sourse      |  #Peaks       | #Peaks intersected \w Encode  | #Peaks summit overlap \w Encode (150 pb window) |
 |-------------|:-------------:|:-----------------------------:|:-----------------------------|
-| REP1        |   51771       |         37045                 |         29252            | 
-| REP2        |   40667       |         35029                 |         27098            |
-| REP1 & REP2 |   37379       |         34511                 |         -                |
-| POOLED      |   37951       |         35458                 |         27971            |
+| REP1        |   51771       |         24246                 |         20741            | 
+| REP2        |   40667       |         21897                 |         19270            |
+| REP1 & REP2 |   37379       |         22019                 |         -                |
+| POOLED      |   37379       |         22441                 |         20121            |
+| ENCODE      |   37951       |         -                     |         -                |
 
 
 ![qval_intersect](./data/assets/qval_intersect.png)
